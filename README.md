@@ -1,6 +1,6 @@
 # 🖱️ Delux M800 Ultra — Battery Monitor & Notifier
 
-[![GitHub release](https://img.shields.io/github/v/release/trend/Delux-M800-Ultra-Battery-Monitor?label=Release&color=brightgreen)](https://github.com/)
+[![GitHub release](https://img.shields.io/github/v/release/DEDBW/Delux-M800-ULTRA-Monitor?label=Release&color=brightgreen)](https://github.com/DEDBW/Delux-M800-ULTRA-Monitor/releases)
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-blue)
 ![Python](https://img.shields.io/badge/Python-3.11+-yellow)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
@@ -34,7 +34,7 @@
 ## 📥 Установка и запуск
 
 ### Вариант 1: Готовый `.exe` (Рекомендуется)
-1. Перейдите на вкладку **[Releases](../../releases)** репозитория.
+1. Перейдите на вкладку **[Releases](https://github.com/DEDBW/Delux-M800-ULTRA-Monitor/releases)** репозитория.
 2. Скачайте последнюю версию `DeluxBatteryMonitor.exe`.
 3. Запустите файл — программа начнет работу и появится в системном трее Windows (возле часов).
 
@@ -44,8 +44,8 @@
 
 1. **Клонируйте репозиторий**:
    ```bash
-   git clone https://github.com/<ваш-аккаунт>/<репозиторий>.git
-   cd "Delux M800 ULTRA"
+   git clone https://github.com/DEDBW/Delux-M800-ULTRA-Monitor.git
+   cd Delux-M800-ULTRA-Monitor
    ```
 
 2. **Установите зависимости**:
